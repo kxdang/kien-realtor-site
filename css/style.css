@@ -8,3 +8,8 @@
 html {
   box-sizing: border-box;
   font-size: 62.5%; }
+
+body {
+  font-family: "Nunito", sans-serif;
+  color: #6d5d4b;
+  font-weight: 300; }
