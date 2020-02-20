@@ -34,7 +34,7 @@
     grid-column-gap: 1.5rem;
 
     font-size: 1.6rem;
-    align-items: center;
+    align-items: center; //aligns vertically for grid
     color: $color-grey-light-2;
 
     &::before,
